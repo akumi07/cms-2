@@ -1,0 +1,13 @@
+# Firebase Key
+
+backend\utils\firebaseKey.json
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
